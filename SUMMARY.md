@@ -1,6 +1,6 @@
 # Summary
 
-*  [Preface]
+* [Preface](preface.md)
 *  [Introduction]
 
 PART I: The Universals
