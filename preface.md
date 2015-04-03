@@ -70,9 +70,7 @@ I will now continue with a general introduction in order to help the
 reader to have more understanding of the nature of the cetasikas which
 accompany the different types of cittas.
 
-### [(4)](#DOCF4)
 
-Expositor I, Part II, Chapter I, 65
 
 
 
