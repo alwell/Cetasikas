@@ -1,6 +1,6 @@
 # Preface
 
-This book[^2] deals with the operations of the mind, citta, and its
+This booK deals with the operations of the mind, citta, and its
 accompanying mental factors, cetasikas. A detailed study of the many
 types of cetasikas will help the reader to know his own defilements
 and to develop good qualities and eventually, to eradicate all
@@ -70,7 +70,6 @@ I will now continue with a general introduction in order to help the
 reader to have more understanding of the nature of the cetasikas which
 accompany the different types of cittas.
 
-[^2] A NOTE
 
 
 
