@@ -8,7 +8,7 @@ defilements. Defilements and good qualities are different types of
 cetasika. In this study I refer to my book *Abhidhamma in Daily
 Life* which deals with the basic points of the Abhidhamma. It is
 useful to read this book first in order to understand my study on
-cetasikas. 
+cetasikas.
 
 The reader may wonder what the purpose is of the many Pāli terms used
 in this book. In the course of his study he will see that the Pāli
