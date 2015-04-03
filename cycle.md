@@ -1,5 +1,5 @@
 Volition in the Cycle of Birth and Death
-========================================
+----------------------------------------
 
 Cetanā, volition, is a cetasika which arises with every citta, as we
 have seen. Seeing, hearing or thinking which arise now are accompanied
