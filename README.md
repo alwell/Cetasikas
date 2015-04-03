@@ -6,7 +6,7 @@
 - Keywords: Abhidhamma; theravada buddhism; buddhism; theravada; tipitaka;
 - Publisher: Zolag
 - Editor: Alan Weller
-- Year: 2014
+- Year: 2015
 - Collection: opensource
 
 ## Description
