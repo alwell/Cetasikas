@@ -61,8 +61,8 @@ I wish to express my deepest thankfulness to Ms. Sujin
 Boriharnwannaket in Bangkok, who greatly assisted me in understanding
 the Dhamma and its application in daily life. I based my study of
 cetasikas on the lectures she held in the Saket Temple in Bangkok. I
-also wish to express my appreciation to the ``Dhamma Study and
-Propagation Foundation'' and to the publisher Alan Weller. With their
+also wish to express my appreciation to the "Dhamma Study and
+Propagation Foundation" and to the publisher Alan Weller. With their
 help the publication of this book was possible. All the texts from
 which I quoted have been printed by the Pāli text Society. 
 
