@@ -51,7 +51,7 @@ life, that it teaches about the phenomena we can experience at this
 moment. As we continue with the study of the Abhidhamma we will be
 impressed by the depth of its teaching. No ordinary person could
 conceive such a detailed exposition of everything which is real,
-except an Enlightened One. 
+except an Enlightened One.[(4)](#FOOT4)
 
 The reader may find this book technical, but as he proceeds he will
 find that a detailed study of realities helps him to understand his
@@ -69,6 +69,10 @@ which I quoted have been printed by the Pāli text Society.
 I will now continue with a general introduction in order to help the
 reader to have more understanding of the nature of the cetasikas which
 accompany the different types of cittas.
+
+### [(4)](#DOCF4)
+
+Expositor I, Part II, Chapter I, 65
 
 
 
