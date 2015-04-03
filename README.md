@@ -1,4 +1,4 @@
-# Cetasikas
+# Introduction
 
 - Cetasikas (2015)
 - Status: Published 21/4/14 in print
