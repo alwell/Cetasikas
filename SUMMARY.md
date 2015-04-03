@@ -2,7 +2,7 @@
 
 * [Preface](preface.md)
 * [Introduction](introduction.md)
-* [Part 1 The Particulars](particulars.md)
+* [Part 1 The Universals](universals.md)
     * [Contact](contact.md)
     * [Feeling](feeling.md)
     * [Perception](perception.md)
