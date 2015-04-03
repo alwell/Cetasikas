@@ -179,7 +179,8 @@ destruction of the ’āsavas’ (defilements). We read:
 
 ```                      |
 By searching in the world things high and low, 
-He who has naught to stir him in the world,             Calm and unclouded, cheerful, freed of longing, 
+He who has naught to stir him in the world, 
+Calm and unclouded, cheerful, freed of longing, 
 He has crossed over birth and old age, I say.                            
  ``` 
 
