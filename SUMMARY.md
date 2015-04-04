@@ -10,4 +10,4 @@
     * [Volition in the Cycle of Birth and Death](cycle.md)
     * [Concentration](concentration.md)
     * [Vitality and Attention](vitality.md)
-
+* [PART 11 The Particulars(particulars.md)
