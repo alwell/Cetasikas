@@ -21,7 +21,7 @@
    * [Introduction to Akusala Cittas](akusalintro.md)
    * [Ignorance Shamelessness Recklessness and Restlessness]]([ignorance].md)
    * [[Attachment]](attachment.md)
-   * [Wrong View]
+   * [[Wrong View]](wrong_view.md)
    * [Conceit]
    * [Aversion]
    * [Envy Stinginess Regret]
