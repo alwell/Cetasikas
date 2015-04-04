@@ -20,7 +20,7 @@
 * [PART III: Akusala Cetasikas](akusala.md)
    * [Introduction to Akusala Cittas](akusalintro.md)
    * [Ignorance Shamelessness Recklessness and Restlessness]]([ignorance].md)
-   * [Attachment]
+   * [[Attachment]](attachment.md)
    * [Wrong View]
    * [Conceit]
    * [Aversion]
