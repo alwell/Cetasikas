@@ -1,5 +1,5 @@
-Determination (adhimokkha) {.section}
--------------------------------
+Determination (adhimokkha)
+--------------------------
 
 Adhimokkha, determination or resolution, is another cetasika among the
 six “particulars” which arises with cittas of the four jātis but not
@@ -100,103 +100,8 @@ Since adhimokkha arises with all cittas except the ten pañca-viññāṇas
 and the type of moha-mūla-citta which is accompanied by doubt, it arises
 with seventy-eight cittas in all[(58)](#FOOT58).
 
-* * * * *
-
-  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-  [[\<]
-  (#Det
-  ermin
-  ation
-  -_002
-  8adhi
-  mokkh
-  a_002
-  9 "Pr
-  eviou
-  s sec
-  tion 
-  in re
-  ading
-   orde
-  r")]
-  [[\>]
-  (#Que
-  stion
-  s-11 
-  "Next
-   sect
-  ion i
-  n rea
-  ding 
-  order
-  ")]
-   
-  [[\<\
-  <](#D
-  eterm
-  inati
-  on-an
-  d-Ene
-  rgy "
-  Begin
-  ning 
-  of th
-  is ch
-  apter
-   or p
-  revio
-  us ch
-  apter
-  ")]
-  [[Up]
-  (#Det
-  ermin
-  ation
-  -and-
-  Energ
-  y "Up
-   sect
-  ion")
-  ]
-  [[\>\
-  >](#R
-  ight-
-  Effor
-  t-of-
-  the-e
-  ightf
-  old-P
-  ath "
-  Next 
-  chapt
-  er")]
-   
-   
-   
-   
-  [[Top
-  ](#To
-  p "Co
-  ver (
-  top) 
-  of do
-  cumen
-  t")]
-  [Cont
-  ents]
-  [Inde
-  x]
-  [[?](
-  #SEC_
-  About
-   "Abo
-  ut (h
-  elp)"
-  )]
-  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-
-10.2 Energy (viriya) {.section}
---------------------
+Energy (viriya)
+---------------
 
 Viriya, energy or effort, is another cetasika among the “particulars”
 which arises with cittas of the four jātis but not with every citta. The
@@ -403,103 +308,7 @@ kusala and bring it to perfection. At the moment of right mindfulness
 right effort performs its task of strengthening the kusala citta so that
 there is perseverance with the development of the eightfold Path.
 
-* * * * *
-
-  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-  [[\<]
-  (#Ene
-  rgy-_
-  0028v
-  iriya
-  _0029
-   "Pre
-  vious
-   sect
-  ion i
-  n rea
-  ding 
-  order
-  ")]
-  [[\>]
-  (#Rig
-  ht-Ef
-  fort-
-  of-th
-  e-eig
-  htfol
-  d-Pat
-  h "Ne
-  xt se
-  ction
-   in r
-  eadin
-  g ord
-  er")]
-   
-  [[\<\
-  <](#D
-  eterm
-  inati
-  on-an
-  d-Ene
-  rgy "
-  Begin
-  ning 
-  of th
-  is ch
-  apter
-   or p
-  revio
-  us ch
-  apter
-  ")]
-  [[Up]
-  (#Ene
-  rgy-_
-  0028v
-  iriya
-  _0029
-   "Up 
-  secti
-  on")]
-  [[\>\
-  >](#R
-  ight-
-  Effor
-  t-of-
-  the-e
-  ightf
-  old-P
-  ath "
-  Next 
-  chapt
-  er")]
-   
-   
-   
-   
-  [[Top
-  ](#To
-  p "Co
-  ver (
-  top) 
-  of do
-  cumen
-  t")]
-  [Cont
-  ents]
-  [Inde
-  x]
-  [[?](
-  #SEC_
-  About
-   "Abo
-  ut (h
-  elp)"
-  )]
-  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-
-### 10.2.1 Questions {.subsection}
+### Questions
 
 1.  Which cittas are not accompanied by adhimokkha?
 2.  Can adhimokkha arise in a sense-door process?
