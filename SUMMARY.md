@@ -19,7 +19,7 @@
    * [Zeal](zeal.md)
 * [PART III: Akusala Cetasikas](akusala.md)
    * [Introduction to Akusala Cittas](akusalintro.md)
-   * [[Ignorance Shamelessness Recklessness and Restlessness]]([ignorance].md)
+   * [Ignorance Shamelessness Recklessness and Restlessness]]([ignorance].md)
    * [Attachment]
    * [Wrong View]
    * [Conceit]
