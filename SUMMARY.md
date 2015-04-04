@@ -23,7 +23,7 @@
    * [Attachment](attachment.md)
    * [Wrong View](wrong_view.md)
    * [Conceit](conceit.md)
-   * [Aversion]
+   * [[Aversion]](aversion.md)
    * [Envy Stinginess Regret]
    * [Sloth Torpor and Doubt]
    * [Different Groups of Defilements Part I]
