@@ -21,7 +21,7 @@
    * [Zeal](zeal.md)
    
 * [PART III: Akusala Cetasikas](akusala.md)
-    *  [Introduction to Akusala Cittas]
+    *  [Introduction to Akusala Cittas](akusalintro)
     *  [Ignorance Shamelessness Recklessness and Restlessness]
     *  [Attachment]
     *  [Wrong View]
