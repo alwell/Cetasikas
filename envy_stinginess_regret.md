@@ -1,4 +1,4 @@
-# Envy Stinginess Regret
+# Envy, Stinginess, Regret
 
 Introduction
 ------------
