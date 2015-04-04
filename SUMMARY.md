@@ -19,9 +19,9 @@
    * [Zeal](zeal.md)
 * [PART III: Akusala Cetasikas](akusala.md)
    * [Introduction to Akusala Cittas](akusalintro.md)
-   * [Ignorance Shamelessness Recklessness and Restlessness]]([ignorance].md)
-   * [[Attachment]](attachment.md)
-   * [[Wrong View]](wrong_view.md)
+   * [Ignorance Shamelessness Recklessness and Restlessness](ignorance.md)
+   * [Attachment](attachment.md)
+   * [Wrong View](wrong_view.md)
    * [Conceit]
    * [Aversion]
    * [Envy Stinginess Regret]
