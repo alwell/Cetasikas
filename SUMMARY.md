@@ -24,7 +24,7 @@
    * [Wrong View](wrong_view.md)
    * [Conceit](conceit.md)
    * [[Aversion]](aversion.md)
-   * [Envy Stinginess Regret]
+   * [[Envy Stinginess Regret]](envy_stinginess_regret.md)
    * [Sloth Torpor and Doubt]
    * [Different Groups of Defilements Part I]
    * [Different Groups of Defilements Part II]
