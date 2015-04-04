@@ -1,4 +1,4 @@
-# Ignorance Shamelessness Recklessness and Restlessness
+# Ignorance, Shamelessness, Recklessness and Restlessness
 
 Moha
 ----
