@@ -12,8 +12,8 @@
     * [Vitality and Attention](vitality.md)
     
 * [PART 11 The Particulars](particulars.md)
-    * [Applied thinking and Sustained thinking]
-    * [Determination and Energy]
-    * [Right Effort of the eightfold Path]
-    * [Enthusiasm]
-    * [Zeal]
+    * [Applied thinking and Sustained thinking](thinking.md)
+    * [Determination and Energy](energy.md)
+    * [Right Effort of the eightfold Path](path.md)
+    * [Enthusiasm](enthusiasm.md)
+    * [Zeal](zeal.md)
