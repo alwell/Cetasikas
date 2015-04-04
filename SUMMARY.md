@@ -22,7 +22,7 @@
    * [Ignorance Shamelessness Recklessness and Restlessness](ignorance.md)
    * [Attachment](attachment.md)
    * [Wrong View](wrong_view.md)
-   * [[Conceit]](conceit.md)
+   * [Conceit](conceit.md)
    * [Aversion]
    * [Envy Stinginess Regret]
    * [Sloth Torpor and Doubt]
