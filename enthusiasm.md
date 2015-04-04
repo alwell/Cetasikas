@@ -1,5 +1,5 @@
-Enthusiasm (pīti) {.section}
-----------------------
+Enthusiasm (pīti)
+-----------------
 
 Pīti, translated as enthusiasm, zest or rapture, is another cetasika
 among the six “particulars” which arise with cittas of the four jātis
@@ -343,91 +343,7 @@ it difficult to know when enthusiasm is wholesome and when it is
 unwholesome, but through mindfulness of it when it appears its
 characteristic can be known more precisely.
 
-* * * * *
-
-  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-  [[\<]
-  (#Ent
-  husia
-  sm-_0
-  028pA
-  _00ab
-  ti_00
-  29 "P
-  revio
-  us se
-  ction
-   in r
-  eadin
-  g ord
-  er")]
-  [[\>]
-  (#Zea
-  l "Ne
-  xt se
-  ction
-   in r
-  eadin
-  g ord
-  er")]
-   
-  [[\<\
-  <](#E
-  nthus
-  iasm 
-  "Begi
-  nning
-   of t
-  his c
-  hapte
-  r or 
-  previ
-  ous c
-  hapte
-  r")]
-  [[Up]
-  (#Ent
-  husia
-  sm-_0
-  028pA
-  _00ab
-  ti_00
-  29 "U
-  p sec
-  tion"
-  )]
-  [[\>\
-  >](#Z
-  eal "
-  Next 
-  chapt
-  er")]
-   
-   
-   
-   
-  [[Top
-  ](#To
-  p "Co
-  ver (
-  top) 
-  of do
-  cumen
-  t")]
-  [Cont
-  ents]
-  [Inde
-  x]
-  [[?](
-  #SEC_
-  About
-   "Abo
-  ut (h
-  elp)"
-  )]
-  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-
-### 12.1.1 Questions {.subsection}
+### Questions
 
 1.  When we give a gift to someone and there is somanassa (pleasant
     feeling), is there pīti as well?
