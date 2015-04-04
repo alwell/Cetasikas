@@ -83,7 +83,7 @@ eradicated by sympathetic joy, even if we have many moments of it. Only
 right understanding of nāma and rūpa can eventually eradicate envy.
 
 Stinginess (macchariya)
-----------------------------
+-----------------------
 
 Stinginess or avarice, macchariya, is another akusala cetasika which can
 arise with dosa-mūla-citta. It does not arise with every
@@ -125,8 +125,6 @@ person also hinders someone else from giving. Stinginess can motivate
 one to try to persuade someone else, for example one’s husband or wife,
 to give less or not to give at all. We read in the *Atthasālinī* :
 
-
-                                      
  ```                       
  …and this also has been said,        
  Malicious, miserly, ignoble, wrong…  
@@ -219,15 +217,14 @@ and spoke to him about avarice and generosity. One among them said:
 
                                       
  ```                      
- …That which the miser dreads, and he 
- nce gives not,                       
- To him not giving just that danger it is:                  Hunger and thirst---for this the thing he dreads---        Just this the doom that does befall  
- the fool                             
+ …That which the miser dreads, and hence gives not,
+ To him not giving just that danger it is:
+ Hunger and thirst---for this the thing he dreads---
+ Just this the doom that does befall the fool
  In this and also in some other world.
  Hence should he avarice suppress, and make            
- Offerings of charity, mastering the  
- taint.                               
- Sure platform in some other future world                                 
+ Offerings of charity, mastering the taint.
+ Sure platform in some other future world 
  Rewards of virtue on good beings wait. 
  
  ```                                  
