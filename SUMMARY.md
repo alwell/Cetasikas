@@ -33,7 +33,7 @@
    * [Introduction](introduction.md)
    * [Confidence](confidence.md)
    * [[Mindfulness]](mindfulness.md)
-   * [Moral Shame and Fear of Blame]
+   * [[Moral Shame and Fear of Blame]](moral_shame_and_fear_of_blame.md)
    * [Non-Attachment]
    * [Non-Aversion]
    * [Equanimity]
