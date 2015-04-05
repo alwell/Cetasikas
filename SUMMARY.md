@@ -42,7 +42,7 @@
    * [[Compassion and Sympathetic Joy]](compassion_and_sympathetic_joy.md)
    * [[Understanding]](understanding.md)
    * [[The Stages of Insight]](the_stages_of_insight.md)
-   * [Wholesome Deeds]
+   * [[Wholesome Deeds]](wholesome_deeds.md)
 * [Appendix]
    * [Appendix to Chapter 2]
    * [Appendix to Chapter 5]
