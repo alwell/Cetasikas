@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [Part 1: The Universals](universals.md)
@@ -53,7 +53,7 @@
    * [Appendix to Chapter 20](appendix_to_chapter_20.md)
    * [Appendix to Chapter 31](appendix_to_chapter_31.md)
    * [Appendix to Chapter 34](appendix_to_chapter_34.md)
-   * [[Appendix to Stages of Insight]](appendix_to_stages_of_insight.md)
-* [[Glossary]](glossary.md)
-* [[Books]](books.md)
+   * [Appendix to Stages of Insight](appendix_to_stages_of_insight.md)
+* [Glossary](glossary.md)
+* [Books](books.md)
 
