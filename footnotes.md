@@ -1,5 +1,6 @@
 # Footnotes
 
+
 ### [(1)](#DOCF1)
 
 See Abhidhamma in Daily Life, Chapter 12.
