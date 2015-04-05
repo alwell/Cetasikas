@@ -50,7 +50,7 @@
    * [[Appendix to Chapter 9]](appendix_to_chapter_9.md)
    * [[Appendix to Chapter 11]](appendix_to_chapter_11.md)
    * [[Appendix to Chapter 12]](appendix_to_chapter_12.md)
-   * [Appendix to Chapter 20]
+   * [[Appendix to Chapter 20]](appendix_to_chapter_20.md)
    * [Appendix to Chapter 31]
    * [Appendix to Chapter 34]
 * [Glossary]
