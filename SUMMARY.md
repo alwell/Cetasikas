@@ -31,7 +31,7 @@
    * [Different Groups of Defilements Part III](different_groups_of_defilements_part_iii.md)
 * [PART IV: Beautiful Cetasikas](part_iv_beautiful_cetasikas.md)
    * [Introduction](introduction.md)
-   * [Confidence]
+   * [[Confidence]](confidence.md)
    * [Mindfulness]
    * [Moral Shame and Fear of Blame]
    * [Non-Attachment]
