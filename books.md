@@ -61,7 +61,7 @@
  patience, truthfulness, determination, loving-kindness, and
  equanimity.
 
-These and other articles can be seen at www.zolag.co.uk or
+These and other articles can be seen at www.zolag.co.uk
 
 
 
