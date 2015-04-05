@@ -1,7 +1,6 @@
 ## Appendix to Chapter 5
 
-Cetanā as a link in the “Dependant Origination” 
-----------------------------------------------------
+### Cetanā as a link in the “Dependant Origination” 
 
 Cetanā as a link in the “Dependant Origination” is called
 *abhisaṅkhāra.* There are three kinds of *abhisaṅkhāra*:
