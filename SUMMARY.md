@@ -32,7 +32,7 @@
 * [PART IV: Beautiful Cetasikas](part_iv_beautiful_cetasikas.md)
    * [Introduction](introduction.md)
    * [Confidence](confidence.md)
-   * [Mindfulness]
+   * [[Mindfulness]](mindfulness.md)
    * [Moral Shame and Fear of Blame]
    * [Non-Attachment]
    * [Non-Aversion]
