@@ -1,7 +1,7 @@
 ## Appendix to Chapter 2
 
-The Feelings which accompany the different cittas 
-------------------------------------------------------
+### The Feelings which accompany the different cittas 
+
 
 *Pleasant bodily feeling* (sukha) arises with only one type of citta:
 the body-consciousness (kāya-viññāṇa) which is kusala vipāka. This kind
