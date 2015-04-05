@@ -1,2 +1,2 @@
-# [PART IV: Beautiful Cetasikas]
+# PART IV: Beautiful Cetasikas
 
