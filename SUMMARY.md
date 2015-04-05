@@ -35,7 +35,7 @@
    * [[Mindfulness]](mindfulness.md)
    * [[Moral Shame and Fear of Blame]](moral_shame_and_fear_of_blame.md)
    * [[Non-Attachment]](non-attachment.md)
-   * [Non-Aversion]
+   * [[Non-Aversion]](non-aversion.md)
    * [Equanimity]
    * [Six Pairs of Beautiful Cetasikas]
    * [The Three Abstinences]
