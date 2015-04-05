@@ -1,2 +1,2 @@
-# [Different Groups of Defilements Part III]
+# Different Groups of Defilements Part III
 
