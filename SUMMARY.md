@@ -52,7 +52,7 @@
    * [[Appendix to Chapter 12]](appendix_to_chapter_12.md)
    * [[Appendix to Chapter 20]](appendix_to_chapter_20.md)
    * [[Appendix to Chapter 31]](appendix_to_chapter_31.md)
-   * [Appendix to Chapter 34]
+   * [[Appendix to Chapter 34]](appendix_to_chapter_34.md)
 * [Glossary]
 * [Books]
 
