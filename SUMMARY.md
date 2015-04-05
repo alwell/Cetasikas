@@ -41,7 +41,7 @@
    * [[The Three Abstinences]](the_three_abstinences.md)
    * [[Compassion and Sympathetic Joy]](compassion_and_sympathetic_joy.md)
    * [[Understanding]](understanding.md)
-   * [The Stages of Insight]
+   * [[The Stages of Insight]](the_stages_of_insight.md)
    * [Wholesome Deeds]
 * [Appendix]
    * [Appendix to Chapter 2]
