@@ -44,7 +44,7 @@
    * [The Stages of Insight](the_stages_of_insight.md)
    * [Wholesome Deeds](wholesome_deeds.md)
 * [[Appendix]](appendix.md)
-   * [Appendix to Chapter 2]
+   * [[Appendix to Chapter 2]](appendix_to_chapter_2.md)
    * [Appendix to Chapter 5]
    * [Appendix to Chapter 8]
    * [Appendix to Chapter 9]
