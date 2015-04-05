@@ -46,7 +46,7 @@
 * [[Appendix]](appendix.md)
    * [[Appendix to Chapter 2]](appendix_to_chapter_2.md)
    * [[Appendix to Chapter 5]](appendix_to_chapter_5.md)
-   * [Appendix to Chapter 8]
+   * [[Appendix to Chapter 8]](appendix_to_chapter_8.md)
    * [Appendix to Chapter 9]
    * [Appendix to Chapter 11]
    * [Appendix to Chapter 12]
