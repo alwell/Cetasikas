@@ -37,7 +37,7 @@
    * [[Non-Attachment]](non-attachment.md)
    * [[Non-Aversion]](non-aversion.md)
    * [[Equanimity]](equanimity.md)
-   * [Six Pairs of Beautiful Cetasikas]
+   * [[Six Pairs of Beautiful Cetasikas]](six_pairs_of_beautiful_cetasikas.md)
    * [The Three Abstinences]
    * [Compassion and Sympathetic Joy]
    * [Understanding]
