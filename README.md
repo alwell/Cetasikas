@@ -1,7 +1,9 @@
-# Book details
+# Book info
 
 - Cetasikas (April 5th 2015)
-- Print status: Published 21/4/14 ISBN 978-1897633-30-4
+- Print status: 
+ - First published 1999 ISBN 1-897633-18-1
+ - Revised edition published 21/4/14 ISBN 978-1897633-30-4
 - Author: Nina van Gorkom
 - Keywords: Abhidhamma; theravada buddhism; buddhism; theravada; tipitaka;
 - Publisher: Zolag
