@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Book Info](README.md)
 * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [Part 1: The Universals](universals.md)
