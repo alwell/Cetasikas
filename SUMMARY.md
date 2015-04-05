@@ -38,7 +38,7 @@
    * [[Non-Aversion]](non-aversion.md)
    * [[Equanimity]](equanimity.md)
    * [[Six Pairs of Beautiful Cetasikas]](six_pairs_of_beautiful_cetasikas.md)
-   * [The Three Abstinences]
+   * [[The Three Abstinences]](the_three_abstinences.md)
    * [Compassion and Sympathetic Joy]
    * [Understanding]
    * [The Stages of Insight]
