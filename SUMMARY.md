@@ -39,7 +39,7 @@
    * [[Equanimity]](equanimity.md)
    * [[Six Pairs of Beautiful Cetasikas]](six_pairs_of_beautiful_cetasikas.md)
    * [[The Three Abstinences]](the_three_abstinences.md)
-   * [Compassion and Sympathetic Joy]
+   * [[Compassion and Sympathetic Joy]](compassion_and_sympathetic_joy.md)
    * [Understanding]
    * [The Stages of Insight]
    * [Wholesome Deeds]
