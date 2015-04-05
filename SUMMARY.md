@@ -48,7 +48,7 @@
    * [[Appendix to Chapter 5]](appendix_to_chapter_5.md)
    * [[Appendix to Chapter 8]](appendix_to_chapter_8.md)
    * [[Appendix to Chapter 9]](appendix_to_chapter_9.md)
-   * [Appendix to Chapter 11]
+   * [[Appendix to Chapter 11]](appendix_to_chapter_11.md)
    * [Appendix to Chapter 12]
    * [Appendix to Chapter 20]
    * [Appendix to Chapter 31]
