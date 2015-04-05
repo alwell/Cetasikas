@@ -29,7 +29,7 @@
    * [Different Groups of Defilements Part I](different_groups_of_defilements_part_i.md)
    * [Different Groups of Defilements Part II](different_groups_of_defilements_part_ii.md)
    * [Different Groups of Defilements Part III](different_groups_of_defilements_part_iii.md)
-* [PART IV: Beautiful Cetasikas]
+* [[PART IV: Beautiful Cetasikas]](part_iv_beautiful_cetasikas.md)
    * [[Beautiful Cetasikas]](beautiful_cetasikas.md)
    * [Confidence]
    * [Mindfulness]
