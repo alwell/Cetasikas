@@ -27,7 +27,7 @@
    * [Envy Stinginess Regret](envy_stinginess_regret.md)
    * [[Sloth Torpor and Doubt]](sloth_torpor_and_doubt.md)
    * [[Different Groups of Defilements Part I]](different_groups_of_defilements_part_i.md)
-   * [Different Groups of Defilements Part II]
+   * [[Different Groups of Defilements Part II]](different_groups_of_defilements_part_ii.md)
    * [Different Groups of Defilements Part III]
 * [PART IV: Beautiful Cetasikas]
    * [Beautiful Cetasikas]
