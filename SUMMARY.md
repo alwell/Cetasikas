@@ -54,6 +54,6 @@
    * [Appendix to Chapter 31](appendix_to_chapter_31.md)
    * [Appendix to Chapter 34](appendix_to_chapter_34.md)
    * [[Appendix to Stages of Insight]](appendix_to_stages_of_insight.md)
-* [Glossary]
+* [[Glossary]](glossary.md)
 * [Books]
 
