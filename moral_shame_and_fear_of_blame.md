@@ -13,8 +13,8 @@ shamelessness, ahirika, and by recklessness, anottappa. Whenever there
 is kusala citta there have to be moral shame and fear of blame.
 
 There are many degrees of kusala and, thus, there are many degrees of
-moral shame and fear of blame. The more we see the impurity of akusala
-and realize its danger, the more moral shame and fear of blame will be
+moral shame and fear of blame. The more paññā sees the impurity of akusala
+and realizes its danger, the more moral shame and fear of blame will be
 developed; they will abhor even akusala which is more subtle.
 
 The *Visuddhimagga* (XIV, 142) gives the following definition of hiri,
