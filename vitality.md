@@ -200,31 +200,29 @@ rebirth-consciousness, the bhavanga-citta, life-continuum, and the
 cuti-citta, dying-consciousness, are accompanied by other cetasikas
 besides the ’universals’.
 
-The ’universals’ have different qualities as they arise with different
+The 'universals' have different qualities as they arise with different
 cittas. For example, when kusala citta arises all the accompanying
-cetasikas, the ’universals’ included, are kusala as well. Vedanā,
+cetasikas, the 'universals' included, are kusala as well. Vedanā,
 feeling, which accompanies kusala citta can be pleasant feeling or
-indifferent feeling. Cetanā, volition, which accompanies kusala citta
-has a double function: it coordinates the tasks of the accompanying
-dhammas and it ’wills’ kusala. If it motivates wholesome deeds it is
-capable of producing the appropriate result when it is the right time
-for it. Thus, kusala cetanā is different from cetanā which accompanies
-vipākacitta.
+indifferent feeling.
 
-When the citta is akusala, all the accompanying cetasikas are akusala as
-well. Vedanā which accompanies akusala citta can be pleasant feeling (in
-the case of lobha-mūla-citta), unpleasant feeling (in the case of
-dosa-mūla-citta), or indifferent feeling (in the case of
+Cetanā, volition, which accompanies kusala citta
+coordinates the tasks of the accompanying
+dhammas and if it is of the intensity of kusala kamma patha, it produces its appropriate result.
+When the citta is akusala, all the accompanying cetasikas are akusala
+as well. Vedanā which accompanies akusala citta can be pleasant
+feeling (in the case of lobha-mūla-citta), unpleasant feeling (in the
+case of dosa-mūla-citta), or indifferent feeling (in the case of
 lobha-mūla-citta and moha-mūla-citta). As regards cetanā which
-accompanies akusala citta, this has a double function: it coordinates
-the accompanying dhammas on the object and it ’wills’ akusala. If it
-motivates unwholesome deeds it is capable of producing the appropriate
-result when it is the right time. Ekaggatā, concentration or
-one-pointedness, which accompanies akusala citta is different from
+accompanies akusala citta, this coordinates
+the accompanying dhammas on the object and it if it is of the intensity of akusala kamma patha, it produces its appropriate result.
+
+Ekaggatā, concentration or one-pointedness, which accompanies akusala citta is different from
 ekaggatā which accompanies kusala citta. Thus we see that mental
 phenomena which arise together condition one another. If we have more
 understanding of the many different conditions for the phenomena which
-arise, it will help us to see them as elements, not as a person, a self.
+arise, it will help us to see them as elements, not as a person, a
+self.
 
 ### Questions
 
