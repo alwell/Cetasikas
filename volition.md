@@ -156,10 +156,7 @@ the unpleasant result which arises in the course of one’s life. We read:
 > the very trifling result of drinking strong drink is madness for a
 > man.
 
-When kusala kamma patha is performed, kusala cetanā “wills” kusala, and
-it also coordinates the tasks of the other dhammas it accompanies.
-Kusala cetanā is capable of producing its appropriate result later on in
-the form of rebirth in a happy plane or it can produce its result in the
+When kusala kamma patha is performed, it is capable of producing its appropriate result later on in the form of rebirth in a happy plane or it can produce its result in the
 course of life in the form of pleasant experiences through the senses.
 
 Kusala kamma can be classified as dāna (generosity), sīla (morality or
