@@ -34,50 +34,21 @@ they each have to fulfil their own task. For example, phassa contacts
 the object, vedanā feels, experiences the “taste” of the object, and
 saññā “marks” and remembers the object. Cetanā sees to it that the other
 dhammas it arises together with fulfil their tasks with regard to the
-object they all share. Every cetanā which arises, no matter whether it
-accompanies kusala citta, akusala citta, vipākacitta or kiriyacitta, has
-to coordinate the tasks of the other dhammas it accompanies.
+object they all share. Every cetanā which arises, no matter whether it accompanies
+kusala citta, akusala citta, vipākacitta or kiriyacitta, has to
+coordinate the tasks of the other dhammas it accompanies. The
+*Atthasālinī* compares cetanā with the chief disciple who recites
+his own lessons and makes the other pupils recite their lessons as
+well, with the chief carpenter who does his own work and makes the
+other carpenters do their work, or with the general who fights himself
+and makes the other soldiers take part in the battle, "...for
+when he begins, the others follow his example. Even so, when volition
+starts work on its object, it sets associated states to do each its
+own."
 
-The cetanā which accompanies kusala citta and akusala citta has, in
-addition to coordinating, another task to perform: ’willing’ or
-’activity of kamma’[(34)](#FOOT34). According to the *Atthasālinī*, as
-to activity in moral and immoral acts, cetanā is exceedingly energetic
-whereas the accompanying cetasikas play only a restricted part. Cetanā
-which accompanies kusala citta and akusala citta coordinates the work of
-the other cetasikas it arises together with and it ’wills’ kusala or
-akusala, thus, it makes a “double effort”. The *Atthasālinī* compares
-the double task of cetanā to the task of a landowner who directs the
-work of his labourers, looks after them and also takes himself an equal
-share of the work. He doubles his strength and doubles his effort. Even
-so volition doubles its strength and its effort in moral and immoral
-acts.
-
-As regards the manifestation of cetanā which is directing, the
-*Atthasālinī* compares cetanā with the chief disciple who recites his
-own lessons and makes the other pupils recite their lessons as well,
-with the chief carpenter who does his own work and makes the other
-carpenters do their work, or with the general who fights himself and
-makes the other soldiers take part in the battle, “…for when he begins,
-the others follow his example. Even so, when volition starts work on its
-object, it sets associated states to do each its own.“
-
-The cetanā which accompanies vipākacitta and kiriyacitta merely
-coordinates the tasks of the other dhammas it accompanies, it does not
-’will’ kusala or akusala and it does not motivate wholesome or
-unwholesome deeds. For example, seeing-consciousness, which is
-vipākacitta, the result of kamma, is accompanied by cetanā and this
-cetanā is also vipāka. The cetanā which accompanies seeing-consciousness
-directs the tasks which the accompanying dhammas have to fulfil with
-regard to visible object. It directs, for example, phassa which contacts
-visible object, vedanā which feels and saññā which marks and remembers
-visible object.
-
-Cetanā which accompanies kusala citta or akusala citta has a double
-task, it is ’exceedingly energetic’. Apart from coordinating the other
-dhammas, it ’wills’ kusala or akusala and when it has the intensity to
-motivate a deed through body, speech or mind, it is capable of producing
-the result of that deed later on. When we speak about kusala kamma or
-akusala kamma we usually think of *courses of action* (kamma pathas)
+The cetanā which accompanies kusala citta and akusala citta can be of the intensity to motivate wholesome and unwholesome deeds which produce their results accordingly. 
+Kamma is actually cetanā cetasika. The cetanā which arises with each citta, with kusala citta, akusala citta, vipākacitta and kiriyacitta, and which coordinates the tasks of the accompanying dhammas, is conascent kamma-condition, sahajāta kamma-paccaya. The kusala cetanā and akusala cetanā that have the intensity of kusala kamma and akusala kamma that produce results are asynchronous kamma-paccaya, or kamma working from a different time, nāṇakkhaṇika kamma-paccaya.    
+When we speak about kusala kamma or akusala kamma we usually think of *courses of action* (kamma pathas)
 which can be performed through body, speech or mind. However, we should
 remember that when we perform wholesome or unwholesome deeds it is
 actually the wholesome or unwholesome *volition or intention* which
