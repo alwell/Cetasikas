@@ -7,12 +7,7 @@ by cetanā. Every type of cetanā performs the function of coordinating
 the different tasks of the accompanying dhammas, no matter whether the
 citta is kusala citta, akusala citta, vipākacitta or kiriyacitta.
 
-When cetanā accompanies kusala citta or akusala citta it performs,
-besides the function of coordinating, another function: it “wills”
-kusala or akusala and it can motivate a wholesome or an unwholesome deed
-through body, speech or mind. Kusala cetanā and akusala cetanā, which
-are actually *kusala kamma* and *akusala kamma,* are capable of
-producing the appropriate results of the deeds they motivated.
+Kusala cetanā or akusala cetanā can be of the intensity of motivating wholesome or unwholesome deeds through body, speech or mind which produce their appropriate results. In that case, kusala cetanā and akusala cetanā are actually asynchronous kamma or kamma working from a different time (nāṇakkhaṇika kamma).
 
 Kusala kamma and akusala kamma can produce results in the form of
 rebirth-consciousness in different planes of existence or in the form of
