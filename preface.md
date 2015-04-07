@@ -1,6 +1,6 @@
 # Preface
 
-This booK deals with the operations of the mind, citta, and its
+This book deals with the operations of the mind, citta, and its
 accompanying mental factors, cetasikas. A detailed study of the many
 types of cetasikas will help the reader to know his own defilements
 and to develop good qualities and eventually, to eradicate all
@@ -22,7 +22,7 @@ In this study on cetasikas I have quoted from the first book of the
 Abhidhamma, the *Dhammasangaṇi* (Buddhist Psychological Ethics).
 I also used Buddhaghosa's commentary to this book, the
 *Atthasālinī* (in English: The Expositor) and his encyclopedia on
-Buddhism, the *Visuddhimagga*(in English: The Path of
+Buddhism, the *Visuddhimagga* (in English: The Path of
 Purification). Buddhaghosa's commentaries date from the fifth century
 A.D. He edited in Sri Lanka old commentary works with utmost
 conscientiousness and translated them from Singhalese into Pāli. The
